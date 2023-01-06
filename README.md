@@ -1,0 +1,2 @@
+# mydjango_board
+test
